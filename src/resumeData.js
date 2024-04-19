@@ -32,29 +32,29 @@ let resumeData = {
         "MonthOfPassing":"May",
         "YearOfPassing":"2025",
         "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Medtronic",
+        "specialization":"Early-stage Research",
+        "MonthOfLeaving":"Summer",
+        "YearOfLeaving":"2024",
+        "Achievements":"ML/computational data analysis to evaluate Medtronic hypertension clinical trial treatments."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Medtronic",
+        "specialization":"Engineering",
+        "MonthOfLeaving":"Summer",
+        "YearOfLeaving":"2023",
+        "Achievements":"Developed ML models to perform root cause analysis, identifying sources of inefficiency in NT-oxygenation system manufacturing line."
+      },
+      {
+        "CompanyName":"Duke Human Vaccine Institute",
+        "specialization":"Research",
+        "MonthOfLeaving":"Summer",
+        "YearOfLeaving":"2022",
+        "Achievements":"",
       }
     ],
     "skillsDescription":"Your skills here",
