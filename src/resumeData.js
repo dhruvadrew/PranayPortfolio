@@ -1,24 +1,24 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"",
     "name": "Pranay Vure",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "role": "Hi! I’m Pranay, a junior @ Duke majoring in BME.",
+    "linkedinId":"",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "My primary interests involve leveraging deep learning, natural language processing, and biophysical computation to design algorithms and novel proteins to address the most complex diseases.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/pranay-vure-0903641b2/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"https://twitter.com/PranayVure",
           "className":"fa fa-twitter"
         }
       ],
