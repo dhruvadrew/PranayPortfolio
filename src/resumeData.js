@@ -18,7 +18,7 @@ let resumeData = {
         },
         {
           "name":"twitter",
-          "url":"hpranay.vure@duke.edu",
+          "url":"mailto:pranay.vure@duke.edu",
           "className":"fa fa-twitter"
         }
       ],
