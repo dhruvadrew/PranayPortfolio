@@ -57,6 +57,23 @@ let resumeData = {
         "Achievements":"",
       }
     ],
+    "project":[
+      {
+        "CompanyName":"Medtronic",
+        "specialization":"Early-stage Research",
+        "Achievements":"Developed a latent space diffusion model leveraging a state-of-the-art protein language model to de novo generate functional antimicrobial peptides."
+      },
+      {
+        "CompanyName":"Medtronic",
+        "specialization":"Engineering",
+        "Achievements":"Experimentally characterized antibody products to determine vivo feasibility of various epitope-scaffold models (Nature Comms)"
+      },
+      {
+        "CompanyName":"Duke Human Vaccine Institute",
+        "specialization":"Research",
+        "Achievements":"",
+      }
+    ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
