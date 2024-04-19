@@ -187,11 +187,14 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   text-align: center;
+   background: #1B191A;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
+
+
 
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #11ABB0; }
@@ -207,9 +210,10 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 600px;
+   height: 300px;
+   display: inline-block;
+   /*border-radius: 100%;*/
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -228,6 +232,17 @@ ul#nav li.current a { color: #F06000; }
 #about .download .button i {
    margin-right: 15px;
    font-size: 20px;
+}
+
+#about .lead {
+   text-align: center;
+   max-width: 600px;
+}
+
+#about .intro-info {
+   max-width: 1024px;
+   margin-right: 0;
+   margin-left: 0;
 }
 
 
