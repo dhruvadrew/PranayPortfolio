@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"",
-    "name": "Test Vure",
-    "role": "Hi! I’m Pranay, a junior @ Duke majoring in BME.",
+    "name": "Pranay Vure",
+    "role": "",
     "linkedinId":"",
     "skypeid": "Your skypeid",
-    "roleDescription": "My primary interests involve leveraging deep learning, natural language processing, and biophysical computation to design algorithms and novel proteins to address the most complex diseases.",
+    "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -13,7 +13,7 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"",
+          "url":"https://www.instagram.com/pranay.vure/",
           "className":"fa fa-github"
         },
         {
@@ -22,15 +22,15 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"Hi! I’m Pranay, a junior @ Duke majoring in BME. My primary interests involve leveraging deep learning, natural language processing, and biophysical computation to design algorithms and novel proteins to address the most complex diseases.",
+    "address":"Durham, NC",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "UniversityName":"Duke University",
+        "specialization":"Biomedical Engineering",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2025",
         "Achievements":"Some Achievements"
       },
       {
