@@ -39,21 +39,21 @@ let resumeData = {
         "CompanyName":"Medtronic",
         "specialization":"Early-stage Research",
         "MonthOfLeaving":"Summer",
-        "YearOfLeaving":"2024",
+        "YearOfLeaving":"'24",
         "Achievements":"ML/computational data analysis to evaluate Medtronic hypertension clinical trial treatments."
       },
       {
         "CompanyName":"Medtronic",
         "specialization":"Engineering",
         "MonthOfLeaving":"Summer",
-        "YearOfLeaving":"2023",
+        "YearOfLeaving":"'23",
         "Achievements":"Developed ML models to perform root cause analysis, identifying sources of inefficiency in NT-oxygenation system manufacturing line."
       },
       {
         "CompanyName":"Duke Human Vaccine Institute",
         "specialization":"Research",
         "MonthOfLeaving":"Summer",
-        "YearOfLeaving":"2022",
+        "YearOfLeaving":"'22",
         "Achievements":"",
       }
     ],
