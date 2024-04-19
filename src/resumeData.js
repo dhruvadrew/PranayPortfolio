@@ -1,6 +1,6 @@
 let resumeData = {
     "imagebaseurl":"",
-    "name": "Pranay Vure",
+    "name": "Test Vure",
     "role": "Hi! I’m Pranay, a junior @ Duke majoring in BME.",
     "linkedinId":"",
     "skypeid": "Your skypeid",
