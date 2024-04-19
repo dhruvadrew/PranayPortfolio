@@ -1090,3 +1090,7 @@ footer .social-links li:first-child { margin-left: 0; }
    max-width: 100%;
    height: auto;
 }
+
+#about .lead {
+   padding-top: 20px;
+}
