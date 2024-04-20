@@ -88,25 +88,45 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Developed a latent space diffusion model leveraging a state-of-the-art protein language model to de novo generate functional antimicrobial peptides.",
+        "description":"",
+        "imgurl":"images/pic1pranay.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Experimentally characterized antibody products to determine vivo feasibility of various epitope-scaffold models (Nature Comms)",
+        "description":"",
+        "imgurl":"images/pranay-hs.png"
+      },
+      {
+        "name":"Masked language modeling-based target sequence-conditioned protein generation model",
+        "description":"",  
+        "imgurl":"images/pranay-hs.png"
+      },
+      {
+        "name":"Utilized SOTA computational techniques along with traditional wet-lab experimentation to try to develop a binder to NCAM1: a key first step towards neuroendocrine prostate cancer therapy",
+        "description":"",
+        "imgurl":"images/pranay-hs.png"
+      },
+      {
+        "name":"Developed Distrogram predictor tool using contrastive learning in order to predict amino acid relationships in protein-protein interactions",
+        "description":"",
+        "imgurl":"images/pranay-hs.png"
+      },
+      {
+        "name":"Fine-tuned two pLMs to better generate and screen Anti-CRISPR proteins",
+        "description":"",
+        "imgurl":"images/pranay-hs.png"
+      },
+      {
+        "name":"Computational modeling of Glucose and Insulin Dynamics with Humalog and Ozempic in Healthy & Type 2 Diabetes Patients",
+        "description":"",  
+        "imgurl":"images/pranay-hs.png"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/pranay-hs.png"
       },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
     ],
     "testimonials":[
       {

@@ -447,9 +447,9 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #1B191A;
    padding-top: 90px;
-   padding-bottom: 60px;
+   padding-bottom: 235px;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -457,7 +457,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #fff;
 }
 
 /* Portfolio Content */
@@ -500,7 +500,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 30px;
+   height: 60px;
    width: 30px;
    font-size: 18px;
    line-height: 30px;
@@ -1093,4 +1093,20 @@ footer .social-links li:first-child { margin-left: 0; }
 
 #about .lead {
    padding-top: 20px;
+}
+
+#contact h5 {
+   color: #F06000;
+   font-size: 1.6rem;
+   line-height: 1.875;
+   margin-bottom: 0.3rem;
+   letter-spacing: .4rem;
+}
+
+#contact h1 {
+   color: #FFFFFF;
+   font-family: 'opensans-bold', sans-serif;
+   font-size: 3.6rem;
+   line-height: 1.25;
+   margin-bottom: 1.2rem;
 }
