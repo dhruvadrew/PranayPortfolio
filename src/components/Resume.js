@@ -4,7 +4,16 @@ export default  class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
+<div class="row section-intro">
+         <div class="col-twelve">
 
+            <h5>Resume</h5>
+            <h1>More of my credentials.</h1>
+
+            <p class="lead">Here are my work experiences and education.</p>
+
+         </div>  
+      </div>
          <div className="row education">
 
             <div className="three columns header-col">
