@@ -74,18 +74,6 @@ let resumeData = {
         "Achievements":"",
       }
     ],
-    "skillsDescription":"Your skills here",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
-      }
-    ],
     "portfolio":[
       {
         "name":"Developed a latent space diffusion model leveraging a state-of-the-art protein language model to de novo generate functional antimicrobial peptides.",
