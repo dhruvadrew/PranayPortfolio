@@ -272,9 +272,13 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about .lead {
-   padding-top: 100px;
+   padding-top: 20px;
 }
 
+#about .intro-buttons{
+   padding-right: 100px;
+   padding-left: 100px;
+}
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
@@ -1097,10 +1101,6 @@ footer .social-links li:first-child { margin-left: 0; }
 .profile-pic {
    max-width: 100%;
    height: auto;
-}
-
-#about .lead {
-   padding-top: 20px;
 }
 
 #contact h5 {
