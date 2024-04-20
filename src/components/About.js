@@ -19,8 +19,14 @@ export default class About extends Component {
                  resumeData.aboutme
                }
                </p>
+               <p className="lead">
+               {
+                 resumeData.address
+               }
+               </p>
                </div>
-               <div className="intro-buttons">
+               <div className="row button-section">
+                <div class="col-twelve"></div>
                <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
                <a href="files/resume.pdf" title="Download CV" class="button button-primary">Download CV</a>
                </div>
