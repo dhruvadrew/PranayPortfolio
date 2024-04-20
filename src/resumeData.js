@@ -23,6 +23,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Hi! I’m Pranay, a junior @ Duke majoring in BME. My primary interests involve leveraging deep learning, natural language processing, and biophysical computation to design algorithms and novel proteins to address the most complex diseases.",
+    //"aboutme":"My primary interests involve leveraging deep learning, natural language processing, and biophysical computation to design algorithms and novel proteins to address the most complex diseases.",
     "address":"Durham, NC",
     "website":"https://rbhatia46.github.io",
     "education":[
