@@ -268,9 +268,12 @@ ul#nav li.current a { color: #F06000; }
 
 #about .intro-buttons {
    position:center;
-   padding-top: 400px;
+   padding-top: 100px;
 }
 
+#about .lead {
+   padding-top: 100px;
+}
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
